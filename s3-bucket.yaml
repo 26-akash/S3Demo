@@ -5,7 +5,7 @@ Resources:
   InboundBucket:
     Type: AWS::S3::Bucket
     Properties:
-      BucketName: nct-inbound-bucket123
+      BucketName: nct-inbound-bucket1234
       VersioningConfiguration:
         Status: Enabled
       BucketEncryption:
